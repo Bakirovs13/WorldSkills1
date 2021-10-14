@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorldSkills1</string>
+    <string name="tamagochi_200">Tamagochi 200</string>
+    <string name="restart">Обновить</string>
+    <string name="name">Имя собачки</string>
+    <string name="eat">Еда</string>
+    <string name="chill">Отдых</string>
+    <string name="gav">Гав гав</string>
+</resources>
